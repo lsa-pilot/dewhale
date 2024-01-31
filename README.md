@@ -4,7 +4,7 @@
 
 # Dewhale
 
-Dewhale is a GitHub-Powered AI for effortless development.
+Dewhale is a GitHub-Powered AI for effortless development. See this [Overview](https://vxdev.pages.dev/).
 
 [中文文档](./README.zh_CN.md)
 
